@@ -31,3 +31,13 @@ Lista de tarefas:
 - [x] Receber pagamento
 
 [Link de teste](https://www.cursoemvideo.com)
+
+
+### Criando uma tabela
+Num | Nome | Nota
+---|---|---
+1 | Adriano | 10,0
+2 | José | 9,0
+3 | Maria| 8,5
+
+Terminou a tabela
