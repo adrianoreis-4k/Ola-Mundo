@@ -41,3 +41,17 @@ Num | Nome | Nota
 3 | Maria| 8,5
 
 Terminou a tabela
+
+
+Não entendo direito o comando `document.getElementById()` da lnguagem JavaScript.
+
+Olha o meu código em Python:
+```
+num = int(input("Digite um valor: ")
+if num % 2 == 0:
+    print (f'O valor é PAR.')
+else:
+    print (f'O valor é ÍMPAR.')
+```
+
+[Repositório com emotes](https://github.com/ikatyang/emoji-cheat-sheet)
